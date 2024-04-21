@@ -1,0 +1,61 @@
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .kg-row{
+    margin: 10px 5px;
+  }
+  
+  .kg-button{
+    min-width: 78px;
+  }
+
+  li{
+    color: aliceblue;
+  }
+
+  .ad-side{
+    font-size: 20px;
+  }
+
+  .ad-list{
+    margin-top: 15px;
+    list-style-type: none;
+  }
+  
+  .ad-listItem{
+    background-color:#667789;
+    width: 90%;
+    padding-bottom: 2px;
+    margin-bottom: 8px;
+    cursor: pointer;
+  }
+
+  /* .ad-tab{
+    height: 10000px;
+  } */
+
+  .ad-pic{
+    height: 15pxpx;
+  }
+
+  .container {
+    padding: 2rem 0rem;
+  }
+  
+  h4 {
+    margin: 2rem 0rem 1rem;
+  }
+  
+  .table-image {
+    td, th {
+      vertical-align: middle;
+    }
+  }
+
+  .ad-set{
+    font-size: 20px;
+  }
